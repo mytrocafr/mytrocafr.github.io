@@ -1,0 +1,17 @@
+#mytroca{font-weight:bold;
+         font-size:25px;}
+#ctit{font-weight:bold;
+      text-align:center;}
+.adress{padding:0;
+        margin:0;}
+.cent1{text-align:center;
+text-decoration: underline;}
+.bout{outline-style:solid;
+      border-radius:25px;
+      margin:5px; 
+      padding:15px;}
+.marg{padding:0;
+        margin:0}
+
+footer{border-top:solid;
+      text-align:center;}
